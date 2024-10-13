@@ -1,0 +1,21 @@
+
+g{
+  "iconDefinitions": {
+      "mi-icon": {
+          "iconPath": "../icons/mi-icon.svg"
+      },
+      "go-icon": {
+          "iconPath": "../icons/go_gopher.svg"
+      },
+      "folder-icon": {
+          "iconPath": "../icons/folder-base.svg"
+      }
+  },
+  "fileExtensions": {
+      "mi": "mi-icon",
+      "go": "go-icon"
+  },
+  "folder": "folder-icon",
+  "file": "_file",
+  "folderExpanded": "_folder_open"
+}
